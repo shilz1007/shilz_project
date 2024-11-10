@@ -1,0 +1,1763 @@
+{
+    "Quick Clean": {
+        "phone_number": "9876543210",
+        "address": "12/A, Gariahat Road, Near South City Mall, Kolkata, West Bengal - 700029",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2000
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1500
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 300
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 400
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 800
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1000
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2500
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1200
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            }
+        ],
+        "reviews": [
+            "The prices are a bit high, but the quality of service is worth it. I'll definitely visit again."
+        ]
+    },
+    "Auto Spa": {
+        "phone_number": "9812345678",
+        "address": "34/B, Prince Anwar Shah Road, Near Jadavpur Police Station, Kolkata, West Bengal - 700032",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 450
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1800
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1200
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 250
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 350
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 700
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 900
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2000
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1000
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2500
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 550
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            }
+        ],
+        "reviews": [
+            "The prices are reasonable, and the quality of service is excellent. I'll definitely recommend it to my friends."
+        ]
+    },
+    "Car Care": {
+        "phone_number": "9898765432",
+        "address": "56/C, Ballygunge Circular Road, Near Quest Mall, Kolkata, West Bengal - 700019",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 550
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2200
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1600
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 350
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 450
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 900
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1200
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 3000
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1500
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3500
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            }
+        ],
+        "reviews": [
+            "The car paint restoration service was a bit expensive, but the results were worth it.",
+            "The headlights polishing service is highly recommended. My car's headlights look as good as new.",
+            "The prices are a bit high, but the quality of service is exceptional. I'll definitely visit again."
+        ]
+    },
+    "Detail Kings": {
+        "phone_number": "9834567890",
+        "address": "78/D, Rashbehari Avenue, Near Kalighat Metro Station, Kolkata, West Bengal - 700026",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 400
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1600
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1000
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 200
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 300
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 600
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 800
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 1800
+            },
+            {
+                "service": "Paint Protection",
+                "price": 800
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 500
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 500
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 500
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 500
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 500
+            }
+        ],
+        "reviews": [
+            "The prices are reasonable, and the quality of service is excellent. I'll definitely recommend it to my friends."
+        ]
+    },
+    "Wash & Glow": {
+        "phone_number": "9876543211",
+        "address": "90/E, Kasba Road, Near Acropolis Mall, Kolkata, West Bengal - 700042",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2000
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1500
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 300
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 400
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 800
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1000
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2500
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1200
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            }
+        ],
+        "reviews": [
+            "The car paint restoration service was a bit expensive, but the results were worth it.",
+            "The headlights polishing service is highly recommended. My car's headlights look as good as new.",
+            "The prices are a bit high, but the quality of service is exceptional. I'll definitely visit again."
+        ]
+    },
+    "West Kolkata Car Spa": {
+        "phone_number": "9876543210",
+        "address": "12/A, J.C. Bose Road, Behala, Kolkata - 700034",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2000
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1500
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 300
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 400
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 800
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1000
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2500
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1200
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            }
+        ],
+        "reviews": []
+    },
+    "Squeaky Clean": {
+        "phone_number": "9812345678",
+        "address": "3/B, Diamond Harbour Road, Thakurpukur, Kolkata - 700063",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 450
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1800
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1200
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 250
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 350
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 700
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 900
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2000
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1000
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2500
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 550
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            }
+        ],
+        "reviews": [
+            "The car plastic restoration was a bit pricey, but the results were worth it."
+        ]
+    },
+    "Crystal Clear Car Wash": {
+        "phone_number": "9898765432",
+        "address": "5/C, Rashbehari Avenue, New Alipore, Kolkata - 700053",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 550
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2200
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1600
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 350
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 450
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 900
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1100
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 3000
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1300
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3500
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            }
+        ],
+        "reviews": []
+    },
+    "Sparkling Wheels Car Spa": {
+        "phone_number": "9800000000",
+        "address": "7/D, Eastern Metropolitan Bypass, Kasba, Kolkata - 700074",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 600
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2500
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1800
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 400
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 500
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 1000
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1200
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 3500
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1500
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 4000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 800
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 900
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 900
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 900
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 900
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 900
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 900
+            }
+        ],
+        "reviews": []
+    },
+    "Shiny Happy Cars": {
+        "phone_number": "9811111111",
+        "address": "9/E, Park Street, Park Circus, Kolkata - 700017",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2000
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1500
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 300
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 400
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 800
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1000
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2500
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1200
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            }
+        ],
+        "reviews": []
+    },
+    "East Kolkata Car Spa": {
+        "phone_number": "9876543210",
+        "address": "12, Park Street, East Kolkata",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2000
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1500
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 300
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 400
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 800
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1000
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2500
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1200
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            }
+        ],
+        "reviews": [
+            "Great service, my car looks brand new!",
+            "A bit pricey, but worth it for the quality of work.",
+            "The staff was friendly and knowledgeable.",
+            "I was disappointed with the wait time, but the end result was good.",
+            "I've been a regular customer for years, and they never disappoint."
+        ]
+    },
+    "Shine and Sparkle Car Wash": {
+        "phone_number": "9812345678",
+        "address": "34, EM Bypass, East Kolkata",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 450
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1800
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1200
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 250
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 350
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 700
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 900
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2000
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1000
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2500
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 550
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            }
+        ],
+        "reviews": [
+            "Quick and efficient service, my car looks great!",
+            "The prices are reasonable and the quality of work is excellent.",
+            "I appreciate the attention to detail and the friendly staff.",
+            "The wait time was a bit long, but the end result was worth it.",
+            "I had a negative experience with a staff member, but the manager handled it professionally."
+        ]
+    },
+    "The Car Wash Company": {
+        "phone_number": "9898765432",
+        "address": "56, Salt Lake Sector 1, East Kolkata",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 550
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2200
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1600
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 350
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 450
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 900
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1100
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 3000
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1300
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3500
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 800
+            }
+        ],
+        "reviews": [
+            "The prices are a bit high, but the quality of work is top-notch.",
+            "The staff is knowledgeable and takes the time to explain the services.",
+            "I was disappointed with the wait time, but the end result was great.",
+            "I've been a loyal customer for years, and they always exceed my expectations."
+        ]
+    },
+    "Gleaming Garage": {
+        "phone_number": "9789012345",
+        "address": "21, Topsia Road, East Kolkata",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 495
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1980
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1320
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 275
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 385
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 770
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 990
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2200
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1100
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2750
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 605
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 660
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 660
+            }
+        ],
+        "reviews": [
+            "The waiting time was a bit long, especially on weekends.",
+            "Friendly staff and a great job on the exterior cleaning. The interior cleaning could be improved.",
+            "The Teflon coating didn't last as long as promised.",
+            "Overall, a good experience. The car looks great!"
+        ]
+    },
+    "Sparkle Station": {
+        "phone_number": "9876543210",
+        "address": "15, Rajdanga Main Road, East Kolkata",
+        "services": [
+            {
+                "service": "Teflon Coating",
+                "price": 1080
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 225
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 315
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 630
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 810
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 1800
+            },
+            {
+                "service": "Paint Protection",
+                "price": 900
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2250
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 495
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            }
+        ],
+        "reviews": []
+    },
+    "Pristine Perfection": {
+        "phone_number": "9012345678",
+        "address": "7, Bagha Jatin Road, East Kolkata",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 495
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1980
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1320
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 275
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 385
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 770
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 990
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2200
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1100
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2750
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 605
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 660
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 660
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 660
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 660
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 660
+            }
+        ],
+        "reviews": [
+            "Overall, a great experience. The car looks brand new."
+        ]
+    },
+    "Crystal Clear Car Care": {
+        "phone_number": "9876543210",
+        "address": "32, Topsia More, East Kolkata",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 405
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1620
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1080
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 225
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 315
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 630
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 810
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 1800
+            },
+            {
+                "service": "Paint Protection",
+                "price": 900
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2250
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 495
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 540
+            }
+        ],
+        "reviews": [
+            "Overall, a good experience. The car looks clean and shiny."
+        ]
+    },
+    "Shiny Shield Car Spa": {
+        "phone_number": "9012345678",
+        "address": "18, EM Bypass South, East Kolkata",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 440
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1760
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1176
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 240
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 330
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 660
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 880
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2000
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1000
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2500
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 550
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 550
+            }
+        ],
+        "reviews": [
+            "The waiting time was a bit long, especially on weekends.",
+            "The car wash service was average. Some areas were not cleaned properly.",
+            "The prices are a bit high for the services offered.",
+            "Overall, a decent experience. The car looks clean and shiny."
+        ]
+    },
+    "Gleaming Gates Car Wash": {
+        "phone_number": "9876543210",
+        "address": "12, Bagha Jatin Road, East Kolkata",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 450
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1800
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1200
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 250
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 350
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 700
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 900
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2000
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1000
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2500
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 550
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            }
+        ],
+        "reviews": []
+    },
+    "Pristine Polish": {
+        "phone_number": "9012345678",
+        "address": "25, Topsia Road, East Kolkata",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 495
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1980
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1320
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 275
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 385
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 770
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 990
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2200
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1100
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2750
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 605
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 660
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 660
+            }
+        ],
+        "reviews": [
+            "The waiting time can be a bit long, especially on weekends.",
+            "Excellent detailing job! My car looks brand new. Highly recommend.",
+            "The pricing could be more competitive, especially for premium services.",
+            "Great service and friendly staff. Will definitely return."
+        ]
+    },
+    "Shiny Wheels Car Wash & Spa": {
+        "phone_number": "9876543210",
+        "address": "12, Rajarhat Road, Near City Center, North Kolkata, West Bengal, India",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2000
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1500
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 300
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 400
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 800
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1000
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2500
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1200
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            }
+        ],
+        "reviews": [
+            "The prices are a bit high, but the quality of service is worth it."
+        ]
+    },
+    "Crystal Clear Car Wash & Spa": {
+        "phone_number": "9812345678",
+        "address": "34, VIP Road, Near Airport, North Kolkata, West Bengal, India",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 450
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 1800
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1200
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 250
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 350
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 700
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 900
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2000
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1000
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 2500
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 550
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 600
+            }
+        ],
+        "reviews": []
+    },
+    "Sparkling Cars Wash & Spa": {
+        "phone_number": "9898765432",
+        "address": "56, Jessore Road, Near Dum Dum Airport, North Kolkata, West Bengal, India",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 550
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2200
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1600
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 350
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 450
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 850
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1100
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2800
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1300
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3200
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 650
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 750
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 750
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 750
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 750
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 750
+            }
+        ],
+        "reviews": [
+            "The prices are a bit high, but the quality of service is worth it."
+        ]
+    },
+    "Gleaming Cars Wash & Spa": {
+        "phone_number": "9834567890",
+        "address": "78, Barrackpore Road, Near Belghoria Expressway, North Kolkata, West Bengal, India",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2000
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1500
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 300
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 400
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 800
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1000
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2500
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1200
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            }
+        ],
+        "reviews": []
+    },
+    "Radiant Cars Wash & Spa": {
+        "phone_number": "9876543211",
+        "address": "90, Kalyani Expressway, Near Sodepur, North Kolkata, West Bengal, India",
+        "services": [
+            {
+                "service": "Car Foam Wash",
+                "price": 500
+            },
+            {
+                "service": "Car Paint Restoration",
+                "price": 2000
+            },
+            {
+                "service": "Teflon Coating",
+                "price": 1500
+            },
+            {
+                "service": "Headlights Polishing",
+                "price": 300
+            },
+            {
+                "service": "Interior Vacuum Cleaning",
+                "price": 400
+            },
+            {
+                "service": "Wax Polishing",
+                "price": 800
+            },
+            {
+                "service": "Car Chrome Restoration",
+                "price": 1000
+            },
+            {
+                "service": "Vinyl Wrapping",
+                "price": 2500
+            },
+            {
+                "service": "Paint Protection",
+                "price": 1200
+            },
+            {
+                "service": "10H Graphene Coating",
+                "price": 3000
+            },
+            {
+                "service": "Exterior Pressure Wash",
+                "price": 600
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            },
+            {
+                "service": "Car Plastic Restoration",
+                "price": 700
+            }
+        ],
+        "reviews": [
+            "The prices are a bit high, but the quality of service is worth it."
+        ]
+    }
+}

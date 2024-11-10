@@ -1,0 +1,602 @@
+{
+    "Alto": {
+        "Air Conditioning Parts": [
+            {
+                "Part Name": "AC - MAGENTIC CLUTCH",
+                "Part No.": "95210M76M00ALT",
+                "Price": 4732.5
+            }
+        ],
+        "Body Parts": [
+            {
+                "Part Name": "UNIT ASSY_POWER BACK DOOR_LH",
+                "Part No.": "T6892M0V501-100ALT",
+                "Price": 23936.25
+            }
+        ],
+        "Braking Parts": [
+            {
+                "Part Name": "PADSET",
+                "Part No.": "55810M69P00ALT",
+                "Price": 2538.75
+            }
+        ],
+        "Bumper Grill Parts": [
+            {
+                "Part Name": "FRONT BUMPER",
+                "Part No.": "71711M82P00-5PKALT",
+                "Price": 2276.25
+            }
+        ],
+        "Car Care Parts": [
+            {
+                "Part Name": "BRAKE FLUID GC 1500AA (250 ML PACK)",
+                "Part No.": "99000M24120-580ALT",
+                "Price": 183.75
+            }
+        ],
+        "DIY Parts": [
+            {
+                "Part Name": "HANDLE, JACK",
+                "Part No.": "09824M00017ALT",
+                "Price": 111.75
+            }
+        ],
+        "Engine Parts": [
+            {
+                "Part Name": "OIL FILTER",
+                "Part No.": "16510M62M00ALT",
+                "Price": 686.25
+            }
+        ],
+        "Exterior Parts": [
+            {
+                "Part Name": "PANEL ASSY_REAR DOOR_L",
+                "Part No.": "68004M55R01ALT",
+                "Price": 8250
+            }
+        ],
+        "Glass Windshield Parts": [
+            {
+                "Part Name": "GLASS COMPWINDSHIELD",
+                "Part No.": "84510M62S01ALT",
+                "Price": 2910.75
+            }
+        ],
+        "Interior Parts": [
+            {
+                "Part Name": "COUNTER BOX ASSEMBLY_CNG",
+                "Part No.": "89700M61S00ALT",
+                "Price": 14838.75
+            }
+        ],
+        "Mirror Parts": [
+            {
+                "Part Name": "OUTSIDE REAR VIEW MIRROR (RIGHT)",
+                "Part No.": "84701M79M00-5PKALT",
+                "Price": 2520.0
+            }
+        ],
+        "Safety Parts": [
+            {
+                "Part Name": "BELT ASSY FR LH",
+                "Part No.": "84902M56R22-V6NALT",
+                "Price": 3176.25
+            }
+        ],
+        "Service Combo": [
+            {
+                "Part Name": "STRUT KIT(ALTO/WAGON-R)",
+                "Part No.": "99000M24120-750ALT",
+                "Price": 412.5
+            }
+        ],
+        "Transmission Parts": [
+            {
+                "Part Name": "DISC COMP CLUTCH",
+                "Part No.": "22400M68P01ALT",
+                "Price": 1271.25
+            }
+        ]
+    },
+    "Baleno": {
+        "Air Conditioning Parts": [
+            {
+                "Part Name": "AC - MAGENTIC CLUTCH",
+                "Part No.": "95210M76M00BLN",
+                "Price": 7760
+            }
+        ],
+        "Body Parts": [
+            {
+                "Part Name": "UNIT ASSY_POWER BACK DOOR_LH",
+                "Part No.": "T6892M0V501-100BLN",
+                "Price": 33365
+            }
+        ],
+        "Braking Parts": [
+            {
+                "Part Name": "PADSET",
+                "Part No.": "55810M69P00BLN",
+                "Price": 4835
+            }
+        ],
+        "Bumper Grill Parts": [
+            {
+                "Part Name": "FRONT BUMPER",
+                "Part No.": "71711M82P00-5PKBLN",
+                "Price": 4485
+            }
+        ],
+        "Car Care Parts": [
+            {
+                "Part Name": "BRAKE FLUID GC 1500AA (250 ML PACK)",
+                "Part No.": "99000M24120-580BLN",
+                "Price": 1695.0
+            }
+        ],
+        "DIY Parts": [
+            {
+                "Part Name": "HANDLE, JACK",
+                "Part No.": "09824M00017BLN",
+                "Price": 1599
+            }
+        ],
+        "Engine Parts": [
+            {
+                "Part Name": "OIL FILTER",
+                "Part No.": "16510M62M00BLN",
+                "Price": 2365
+            }
+        ],
+        "Exterior Parts": [
+            {
+                "Part Name": "PANEL ASSY_REAR DOOR_L",
+                "Part No.": "68004M55R01BLN",
+                "Price": 12450
+            }
+        ],
+        "Glass Windshield Parts": [
+            {
+                "Part Name": "GLASS COMPWINDSHIELD",
+                "Part No.": "84510M62S01BLN",
+                "Price": 5331
+            }
+        ],
+        "Interior Parts": [
+            {
+                "Part Name": "COUNTER BOX ASSEMBLY_CNG",
+                "Part No.": "89700M61S00BLN",
+                "Price": 21235
+            }
+        ],
+        "Mirror Parts": [
+            {
+                "Part Name": "OUTSIDE REAR VIEW MIRROR (RIGHT)",
+                "Part No.": "84701M79M00-5PKBLN",
+                "Price": 4810
+            }
+        ],
+        "Safety Parts": [
+            {
+                "Part Name": "BELT ASSY FR LH",
+                "Part No.": "84902M56R22-V6NBLN",
+                "Price": 5685
+            }
+        ],
+        "Service Combo": [
+            {
+                "Part Name": "STRUT KIT(ALTO/WAGON-R)",
+                "Part No.": "99000M24120-750BLN",
+                "Price": 2000
+            }
+        ],
+        "Transmission Parts": [
+            {
+                "Part Name": "DISC COMP CLUTCH",
+                "Part No.": "22400M68P01BLN",
+                "Price": 3145
+            }
+        ]
+    },
+    "HyundaiI10": {
+        "Air Conditioning Parts": [
+            {
+                "Part Name": "AC - MAGENTIC CLUTCH",
+                "Part No.": "95210M76M00H10",
+                "Price": 6660
+            }
+        ],
+        "Body Parts": [
+            {
+                "Part Name": "UNIT ASSY_POWER BACK DOOR_LH",
+                "Part No.": "T6892M0V501-100H10",
+                "Price": 32265
+            }
+        ],
+        "Braking Parts": [
+            {
+                "Part Name": "PADSET",
+                "Part No.": "55810M69P00H10",
+                "Price": 3735
+            }
+        ],
+        "Bumper Grill Parts": [
+            {
+                "Part Name": "FRONT BUMPER",
+                "Part No.": "71711M82P00-5PKH10",
+                "Price": 3385
+            }
+        ],
+        "Car Care Parts": [
+            {
+                "Part Name": "FRONT BUMPER",
+                "Part No.": "71711M82P00-5PKH20",
+                "Price": 3885
+            }
+        ],
+        "DIY Parts": [
+            {
+                "Part Name": "BRAKE FLUID GC 1500AA (250 ML PACK)",
+                "Part No.": "99000M24120-580H10",
+                "Price": 595.0
+            }
+        ],
+        "Engine Parts": [
+            {
+                "Part Name": "HANDLE, JACK",
+                "Part No.": "09824M00017H10",
+                "Price": 499
+            }
+        ],
+        "Exterior Parts": [
+            {
+                "Part Name": "OIL FILTER",
+                "Part No.": "16510M62M00H10",
+                "Price": 1265
+            }
+        ],
+        "Glass Windshield Parts": [
+            {
+                "Part Name": "PANEL ASSY_REAR DOOR_L",
+                "Part No.": "68004M55R01H10",
+                "Price": 11350
+            }
+        ],
+        "Interior Parts": [
+            {
+                "Part Name": "GLASS COMPWINDSHIELD",
+                "Part No.": "84510M62S01H10",
+                "Price": 4231
+            }
+        ],
+        "Mirror Parts": [
+            {
+                "Part Name": "COUNTER BOX ASSEMBLY_CNG",
+                "Part No.": "89700M61S00H10",
+                "Price": 20135
+            }
+        ],
+        "Safety Parts": [
+            {
+                "Part Name": "OUTSIDE REAR VIEW MIRROR (RIGHT)",
+                "Part No.": "84701M79M00-5PKH10",
+                "Price": 3710
+            }
+        ],
+        "Service Combo": [
+            {
+                "Part Name": "BELT ASSY FR LH",
+                "Part No.": "84902M56R22-V6NH10",
+                "Price": 4585
+            }
+        ],
+        "Transmission_Parts": [
+            {
+                "Part Name": "DISC COMP CLUTCH",
+                "Part No.": "22400M68P01H10",
+                "Price": 2045
+            }
+        ]
+    },
+    "KWID": {
+        "Air Conditioning Parts": [
+            {
+                "Part Name": "AC - MAGENTIC CLUTCH",
+                "Part No.": "95210M76M00KWD",
+                "Price": 6280
+            }
+        ],
+        "Body Parts": [
+            {
+                "Part Name": "UNIT ASSY_POWER BACK DOOR_LH",
+                "Part No.": "T6892M0V501-100KWD",
+                "Price": 31885
+            }
+        ],
+        "Braking Parts": [
+            {
+                "Part Name": "PADSET",
+                "Part No.": "55810M69P00KWD",
+                "Price": 3355
+            }
+        ],
+        "Bumper Grill Parts": [
+            {
+                "Part Name": "FRONT BUMPER",
+                "Part No.": "71711M82P00-5PKKWD",
+                "Price": 3005
+            }
+        ],
+        "Car Care Parts": [
+            {
+                "Part Name": "BRAKE FLUID GC 1500AA (250 ML PACK)",
+                "Part No.": "99000M24120-580KWD",
+                "Price": 215.0
+            }
+        ],
+        "DIY Parts": [
+            {
+                "Part Name": "HANDLE, JACK",
+                "Part No.": "09824M00017KWD",
+                "Price": 119
+            }
+        ],
+        "Engine Parts": [
+            {
+                "Part Name": "OIL FILTER",
+                "Part No.": "16510M62M00KWD",
+                "Price": 885
+            }
+        ],
+        "Exterior Parts": [
+            {
+                "Part Name": "PANEL ASSY_REAR DOOR_L",
+                "Part No.": "68004M55R01KWD",
+                "Price": 10970
+            }
+        ],
+        "Glass Windshield Parts": [
+            {
+                "Part Name": "GLASS COMPWINDSHIELD",
+                "Part No.": "84510M62S01KWD",
+                "Price": 3851
+            }
+        ],
+        "Interior Parts": [
+            {
+                "Part Name": "COUNTER BOX ASSEMBLY_CNG",
+                "Part No.": "89700M61S00KWD",
+                "Price": 19755
+            }
+        ],
+        "Mirror Parts": [
+            {
+                "Part Name": "OUTSIDE REAR VIEW MIRROR (RIGHT)",
+                "Part No.": "84701M79M00-5PKKWD",
+                "Price": 3330
+            }
+        ],
+        "Safety Parts": [
+            {
+                "Part Name": "BELT ASSY FR LH",
+                "Part No.": "84902M56R22-V6NKWD",
+                "Price": 4205
+            }
+        ],
+        "Service Combo": [
+            {
+                "Part Name": "STRUT KIT(ALTO/WAGON-R)",
+                "Part No.": "99000M24120-750KWD",
+                "Price": 520
+            }
+        ],
+        "Transmission Parts": [
+            {
+                "Part Name": "DISC COMP CLUTCH",
+                "Part No.": "22400M68P01KWD",
+                "Price": 1665
+            }
+        ]
+    },
+    "Swift": {
+        "Air Conditioning Parts": [
+            {
+                "Part Name": "AC - MAGENTIC CLUTCH",
+                "Part No.": "95210M76M00SFT",
+                "Price": 6760
+            }
+        ],
+        "Body Parts": [
+            {
+                "Part Name": "UNIT ASSY_POWER BACK DOOR_LH",
+                "Part No.": "T6892M0V501-100SFT",
+                "Price": 32365
+            }
+        ],
+        "Braking Parts": [
+            {
+                "Part Name": "PADSET",
+                "Part No.": "55810M69P00SFT",
+                "Price": 3835
+            }
+        ],
+        "Bumper Grill Parts": [
+            {
+                "Part Name": "FRONT BUMPER",
+                "Part No.": "71711M82P00-5PKSFT",
+                "Price": 3485
+            }
+        ],
+        "Car Care Parts": [
+            {
+                "Part Name": "BRAKE FLUID GC 1500AA (250 ML PACK)",
+                "Part No.": "99000M24120-580SFT",
+                "Price": 695.0
+            }
+        ],
+        "DIY Parts": [
+            {
+                "Part Name": "HANDLE, JACK",
+                "Part No.": "09824M00017SFT",
+                "Price": 599
+            }
+        ],
+        "Engine Parts": [
+            {
+                "Part Name": "OIL FILTER",
+                "Part No.": "16510M62M00SFT",
+                "Price": 1365
+            }
+        ],
+        "Exterior Parts": [
+            {
+                "Part Name": "PANEL ASSY_REAR DOOR_L",
+                "Part No.": "68004M55R01SFT",
+                "Price": 11450
+            }
+        ],
+        "Glass Windshield Parts": [
+            {
+                "Part Name": "GLASS COMPWINDSHIELD",
+                "Part No.": "84510M62S01SFT",
+                "Price": 4331
+            }
+        ],
+        "Interior Parts": [
+            {
+                "Part Name": "COUNTER BOX ASSEMBLY_CNG",
+                "Part No.": "89700M61S00SFT",
+                "Price": 20235
+            }
+        ],
+        "Mirror Parts": [
+            {
+                "Part Name": "OUTSIDE REAR VIEW MIRROR (RIGHT)",
+                "Part No.": "84701M79M00-5PKSFT",
+                "Price": 3810
+            }
+        ],
+        "Safety Parts": [
+            {
+                "Part Name": "BELT ASSY FR LH",
+                "Part No.": "84902M56R22-V6NSFT",
+                "Price": 4685
+            }
+        ],
+        "Service Combo": [
+            {
+                "Part Name": "STRUT KIT(ALTO/WAGON-R)",
+                "Part No.": "99000M24120-750SFT",
+                "Price": 1000
+            }
+        ],
+        "Transmission Parts": [
+            {
+                "Part Name": "DISC COMP CLUTCH",
+                "Part No.": "22400M68P01SFT",
+                "Price": 2145
+            }
+        ]
+    },
+    "Tiago": {
+        "Air Conditioning Parts": [
+            {
+                "Part Name": "AC - MAGENTIC CLUTCH",
+                "Part No.": "95210M76M00TIA",
+                "Price": 7010
+            }
+        ],
+        "Body Parts": [
+            {
+                "Part Name": "UNIT ASSY_POWER BACK DOOR_LH",
+                "Part No.": "T6892M0V501-100TIA",
+                "Price": 32615
+            }
+        ],
+        "Braking Parts": [
+            {
+                "Part Name": "PADSET",
+                "Part No.": "55810M69P00TIA",
+                "Price": 4085
+            }
+        ],
+        "Bumper Grill Parts": [
+            {
+                "Part Name": "FRONT BUMPER",
+                "Part No.": "71711M82P00-5PKTIA",
+                "Price": 3735
+            }
+        ],
+        "Car Care Parts": [
+            {
+                "Part Name": "BRAKE FLUID GC 1500AA (250 ML PACK)",
+                "Part No.": "99000M24120-580TIA",
+                "Price": 945.0
+            }
+        ],
+        "DIY Parts": [
+            {
+                "Part Name": "HANDLE, JACK",
+                "Part No.": "09824M00017TIA",
+                "Price": 849
+            }
+        ],
+        "Engine Parts": [
+            {
+                "Part Name": "OIL FILTER",
+                "Part No.": "16510M62M00TIA",
+                "Price": 1615
+            }
+        ],
+        "Exterior Parts": [
+            {
+                "Part Name": "PANEL ASSY_REAR DOOR_L",
+                "Part No.": "68004M55R01TIA",
+                "Price": 11700
+            }
+        ],
+        "Glass Windshield Parts": [
+            {
+                "Part Name": "GLASS COMPWINDSHIELD",
+                "Part No.": "84510M62S01TIA",
+                "Price": 4581
+            }
+        ],
+        "Interior Parts": [
+            {
+                "Part Name": "COUNTER BOX ASSEMBLY_CNG",
+                "Part No.": "89700M61S00TIA",
+                "Price": 20485
+            }
+        ],
+        "Mirror Parts": [
+            {
+                "Part Name": "OUTSIDE REAR VIEW MIRROR (RIGHT)",
+                "Part No.": "84701M79M00-5PKTIA",
+                "Price": 4060
+            }
+        ],
+        "Safety Parts": [
+            {
+                "Part Name": "BELT ASSY FR LH",
+                "Part No.": "84902M56R22-V6NTIA",
+                "Price": 4935
+            }
+        ],
+        "Service Combo": [
+            {
+                "Service_Combo_Pack": "STRUT KIT(ALTO/WAGON-R)",
+                "Part No.": "99000M24120-750TIA",
+                "Price": 1250
+            }
+        ],
+        "Transmission Parts": [
+            {
+                "Part Name": "DISC COMP CLUTCH",
+                "Part No.": "22400M68P01TIA",
+                "Price": 2395
+            }
+        ]
+    }
+}
